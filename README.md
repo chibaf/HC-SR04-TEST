@@ -8,6 +8,8 @@ Arduino UNO R4
 
 ## settings
 
+### HC_SR04.ino
+
 HC-SR04 vs Arduino UNO R4
 
 Vcc->5V, Trig->Digital 3, Echo->Digital 2, Gnd->GND
