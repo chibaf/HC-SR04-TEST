@@ -10,7 +10,9 @@ Arduino UNO R4
 
 HC-SR04 vs Arduino UNO R4
 
-![SRL-image-0](https://github.com/chibaf/HC-SR04-TEST/assets/1296728/a9a189c7-6f9c-4d9c-bf57-2c99c7bce672)Vcc->5V, Trig->Digital 3, Echo->Digital 2, Gnd->GND
+Vcc->5V, Trig->Digital 3, Echo->Digital 2, Gnd->GND
+
+![SRL-image-0](https://github.com/chibaf/HC-SR04-TEST/assets/1296728/a9a189c7-6f9c-4d9c-bf57-2c99c7bce672)
 
 ![IMG_3879](https://github.com/chibaf/HC-SR04-TEST/assets/1296728/9ed3ee93-c735-427f-8585-1fd116201d19)
 
