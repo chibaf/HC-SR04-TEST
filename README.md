@@ -22,4 +22,4 @@ output
 
 超音波距離センサ HC-SR04 — スイッチサイエンス https://www.switch-science.com/products/6080
 
-
+data sheet https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
