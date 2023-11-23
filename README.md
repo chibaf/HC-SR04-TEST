@@ -16,6 +16,8 @@ Vcc->5V, Trig->PWM 3, Echo->PWM 2, Gnd->GND
 
 ![IMG_3878](https://github.com/chibaf/HC-SR04-TEST/assets/1296728/a04ca63a-01b8-44de-97dd-5223d99ecea2)
 
+![SRL-image-0](https://github.com/chibaf/HC-SR04-TEST/assets/1296728/a9a189c7-6f9c-4d9c-bf57-2c99c7bce672)
+
 ## exapmle
 
 usage: python3 read_s.py /dev/tty.usbmodem14201 9600
