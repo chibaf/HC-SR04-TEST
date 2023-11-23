@@ -6,6 +6,7 @@
 
 Arduino UNO R4
 
+## settings
 
 HC-SR04 vs Arduino UNO R4
 
