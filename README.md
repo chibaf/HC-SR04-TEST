@@ -32,9 +32,11 @@ Vcc->5V, Trig->Digital 7, Echo->Digital 8, Gnd->GND
 
 usage: python3 read_s.py /dev/tty.usbmodem14201 9600
 
-output
+HC_SR04.ino output
 
 <img width="570" alt="Screen Shot 2023-11-24 at 3 15 05" src="https://github.com/chibaf/HC-SR04-TEST/assets/1296728/106d436b-7d99-44a7-888e-9c10a9ca4b9a">
+
+HC-SR04_UltrasonicSensorExample.ino output
 
 ![Screen Shot 2023-11-24 at 6 46 22](https://github.com/chibaf/HC-SR04-TEST-with-ARDUINO/assets/1296728/2df1fdfa-8d5d-4e2a-b071-03e9fcbe7081)
 
