@@ -6,6 +6,11 @@
 
 Arduino UNO R4
 
+
+HC-SR04 vs Arduino UNO R4
+
+Vcc->5V, Trig->PWM 3, Echo->PWM 2, Gnd->GND
+
 ## exapmle
 
 usage: python3 read_s.py /dev/tty.usbmodem14201 9600
