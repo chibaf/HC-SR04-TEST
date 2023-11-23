@@ -1,12 +1,18 @@
 # HC-SR04-TEST
 
+## devices
+
 超音波距離センサー　ＨＣ－ＳＲ０４
 
 Arduino UNO R4
 
+## exapmle
+
 usage: python3 read_s.py /dev/tty.usbmodem14201 9600
 
+output
 
+<img width="570" alt="Screen Shot 2023-11-24 at 3 15 05" src="https://github.com/chibaf/HC-SR04-TEST/assets/1296728/106d436b-7d99-44a7-888e-9c10a9ca4b9a">
 
 ## Ref
 
