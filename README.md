@@ -1,4 +1,4 @@
-# HC-SR04-TEST
+# HC-SR04 TEST with Arduino
 
 ## devices
 
