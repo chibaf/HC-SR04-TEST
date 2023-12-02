@@ -14,12 +14,20 @@ HC-SR04 vs Arduino UNO R4
 
 Vcc->5V, Trig->Digital 3, Echo->Digital 2, Gnd->GND
 
+### ref
+超音波センサHC-SR04とArduinoで距離を測定する https://rb-station.com/blogs/article/hc-sr04-arduino
+
+
 ### HC-SR04_UltrasonicSensorExample.ino
 
 HC-SR04 vs Arduino UNO R4
 
 Vcc->5V, Trig->Digital 7, Echo->Digital 8, Gnd->GND
 
+### ref 
+
+sparkfun/HC-SR04_UltrasonicSensor: Arduino example code for the HC-SR04 ultrasonic ranging sensor.
+https://github.com/sparkfun/HC-SR04_UltrasonicSensor
 
 ![SRL-image-0](https://github.com/chibaf/HC-SR04-TEST/assets/1296728/a9a189c7-6f9c-4d9c-bf57-2c99c7bce672)
 
@@ -42,7 +50,6 @@ HC-SR04_UltrasonicSensorExample.ino output
 
 
 ## Ref
-
 解説記事 : 超音波センサHC-SR04とArduinoで距離を測定する https://rb-station.com/blogs/article/hc-sr04-arduino
 
 超音波距離センサー　ＨＣ－ＳＲ０４: センサ一般 秋月電子通商-電子部品・ネット通販 https://akizukidenshi.com/catalog/g/gM-11009/
