@@ -11,7 +11,7 @@ while True:
     data.pop(-1)
     data.insert(0,line2)
     plt.clf()
-    plt.ylim([0,200.0])
+    plt.ylim([0,20.0])
     plt.plot(x,data)
     plt.pause(0.1)
   except KeyboardInterrupt:
